@@ -1,0 +1,11 @@
+div {
+    margin: 30px;
+}
+
+.site:after {
+    content: "(https://www.appleseeds.org.il/)";
+}
+
+a {
+    text-decoration: none;
+}
